@@ -1,0 +1,31 @@
+{
+  "name": "bombercoders",
+  "version": "1.0.0",
+  "description": "Juego de Bomberman usando socket io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jazmmine/bombercoders.git"
+  },
+  "keywords": [
+    "socket",
+    "io",
+    "bombercorders",
+    "javascript",
+    "real",
+    "time"
+  ],
+  "author": "jazmine y Diana\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[J\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jazmmine/bombercoders/issues"
+  },
+  "homepage": "https://github.com/Jazmmine/bombercoders#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
